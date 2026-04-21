@@ -10,14 +10,6 @@ The goal is to classify images into multiple categories using a dataset provided
 The dataset consists of multiple folders, where each folder represents a different class label. 
 Each folder contains images corresponding to that category.
 
-## Dataset Structure
-images/
-│── class1/
-│── class2/
-│── class3/
-│── class4/
-│── class5/
-
 ## Features
 - Image preprocessing (resizing, normalization, flattening)
 - Multi-class classification using Random Forest
